@@ -228,6 +228,18 @@
 		"sslws": "false",
 		"dothost": ""
 	}, {
+		"port": "80",
+		"host": "paises.paquetesmiclaro.com",
+		"friendly_name": "🌍 Claro | Multi Paises (2023)",
+		"sausage": "",
+		"payload": "GET wss://[cf] HTTP/1.1[crlf]Host: paises.paquetesmiclaro.com[crlf]Origin: [ua][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+		"query": "normal",
+		"category": "ocsws",
+		"message": "🇬🇹 🇸🇻 🇭🇳 🇳🇮 🇨🇷 🇵🇦",
+		"method": "http",
+		"sslws": "false",
+		"dothost": ""
+	}, {
 		"port": "443",
 		"host": "13.227.85.92",
 		"friendly_name": "🇵🇾 Paraguay | Tigo Free 💯",
@@ -1550,7 +1562,7 @@
 	}, {
 		"port": "80",
 		"host": "origin.api.amxrest.net",
-		"friendly_name": "🇵🇰 Pakistan | Ufone Free (1) 💯",
+		"friendly_name": "🇵🇰 Pakistan | Ufone Free 💯",
 		"sausage": "",
 		"payload": "GET wss://[cf] HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Origin: [ua][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 		"query": "normal",
@@ -1568,18 +1580,6 @@
 		"query": "normal",
 		"category": "ocscf",
 		"message": "✈️ Flight Mode if not connect ✈️",
-		"method": "http",
-		"sslws": "false",
-		"dothost": ""
-	}, {
-		"port": "80",
-		"host": "paises.paquetesmiclaro.com",
-		"friendly_name": "🌍 Claro | Multi Paises (2023)",
-		"sausage": "",
-		"payload": "GET wss://[cf] HTTP/1.1[crlf]Host: paises.paquetesmiclaro.com[crlf]Origin: [ua][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-		"query": "normal",
-		"category": "ocsws",
-		"message": "🇬🇹 🇸🇻 🇭🇳 🇳🇮 🇨🇷 🇵🇦",
 		"method": "http",
 		"sslws": "false",
 		"dothost": ""

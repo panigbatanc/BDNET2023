@@ -3,7 +3,7 @@
         {
             "port": "80",
             "host": "git.toofannet.xyz",
-            "friendly_name": "🇮🇷 IRAN NEW METHOD 1 💯",
+            "friendly_name": "🇮🇷 IRAN NEW METHOD 1",
             "sausage": "",
             "payload": "HTTP/1.1[crlf]Host: github.com[crlf]User-Agent: [ua][crlf][crlf]",
             "query": "normal",
@@ -16,7 +16,7 @@
         {
             "port": "80",
             "host": "git.toofannet.xyz",
-            "friendly_name": "🇮🇷 IRAN NEW METHOD 1 💯",
+            "friendly_name": "🇮🇷 IRAN NEW METHOD 2",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: github.com[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -29,9 +29,22 @@
         {
             "port": "443",
             "host": "git.toofannet.xyz",
-            "friendly_name": "🇮🇷 IRAN NEW METHOD 3 💯",
+            "friendly_name": "🇮🇷 IRAN NEW METHOD 3",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: github.com[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]~github.com",
+            "query": "normal",
+            "category": "ocsws",
+            "message": "اگر کار می کند امتحان کنید",
+            "method": "http",
+            "sslws": "true",
+            "dothost": ""
+        },
+		{
+            "port": "443",
+            "host": "git.toofannet.xyz",
+            "friendly_name": "🇮🇷 IRAN NEW METHOD 4",
+            "sausage": "",
+            "payload": "GET / HTTP/1.1[crlf]Host: github.com[crlf]User-Agent: [ua][crlf]Connection: Upgrade[crlf][crlf]~github.com",
             "query": "normal",
             "category": "ocsws",
             "message": "اگر کار می کند امتحان کنید",

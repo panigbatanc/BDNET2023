@@ -1652,7 +1652,7 @@
             "dothost": ""
         },
         {
-            "port": "443",
+            "port": "80",
             "host": "Pulled",
             "friendly_name": "A3 - 🇭🇳 Honduras Claro Gratis",
             "sausage": "",
@@ -1661,11 +1661,11 @@
             "category": "ocsnormal",
             "message": "",
             "method": "http",
-            "sslws": "true",
+            "sslws": "false",
             "dothost": ""
         },
         {
-            "port": "443",
+            "port": "80",
             "host": "Pulled",
             "friendly_name": "A3 - 🇬🇹 Guatemala Claro Gratis",
             "sausage": "",
@@ -1674,11 +1674,11 @@
             "category": "ocsnormal",
             "message": "",
             "method": "http",
-            "sslws": "true",
+            "sslws": "false",
             "dothost": ""
         },
         {
-            "port": "443",
+            "port": "80",
             "host": "Pulled",
             "friendly_name": "A3 - 🇲🇽 Mexico Movistar Gratis",
             "sausage": "",
@@ -1687,11 +1687,11 @@
             "category": "ocsnormal",
             "message": "",
             "method": "http",
-            "sslws": "true",
+            "sslws": "false",
             "dothost": ""
         },
         {
-            "port": "443",
+            "port": "80",
             "host": "Pulled",
             "friendly_name": "A3 - 🌎 Claro Multipais",
             "sausage": "",
@@ -1700,7 +1700,7 @@
             "category": "ocsnormal",
             "message": "🇸🇻🇬🇹🇭🇳🇳🇮🇵🇦🇵🇪🇲🇽 Probar",
             "method": "http",
-            "sslws": "true",
+            "sslws": "false",
             "dothost": ""
         }
     ],
